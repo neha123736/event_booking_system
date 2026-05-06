@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ONLINE EVENT BOOKING AND MANAGEMENT SYSTEM
 Full-Stack Web Development Project Report
 In Collaboration with tcsion RIO (Remote Internship Office)
@@ -78,3 +79,7 @@ tcsion RIO Project Guidelines.
 React and Node.js Official Documentation.
 
 MySQL Workbench Reference Manual.
+=======
+# event_booking_system
+Event Booking System built using Node.js, Express, React, and MySQL for managing events, users, and bookings.
+>>>>>>> ce3c0604bd12a0d7bdfb93f92155590189e4f098
