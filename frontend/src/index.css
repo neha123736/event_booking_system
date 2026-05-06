@@ -1,0 +1,16 @@
+/* 1. Font Import: Ye screenshot wali 'Jakarta' writing style lata hai */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 2. Global Style: Ye pure project ki writing ko clean aur sharp banata hai */
+
+@layer base {
+    body {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        @apply text-[#0f172a] antialiased;
+        /* Text color thoda dark-blue/black ho jayega */
+    }
+}
